@@ -3,7 +3,7 @@
 ## Description
 40 People – Safety Dressing Collection Data. Each subject collects 24 videos, each video lasts about 30 seconds. The gender distribution includes male and female, the age distribution is young and middle-aged. Collecting scenes include 2 indoor scenes and 2 outdoor scenes. The collecting angles are looking down angle, looking up angle. The data diversity includes multiple scenes, multiple actions, multiple angles, multiple safety dressing equipment. The data can be used for tasks such as detection and recognition of safety dressing for power personnel.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1341?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1341?source=Github
 
 
 ## Data size
